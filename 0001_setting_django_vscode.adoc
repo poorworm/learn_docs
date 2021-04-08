@@ -1,0 +1,20 @@
+= Django 專案
+:sectnums:
+
+== 安裝 Python Extension Pack
+=== 使用 Visual Studio Code 安裝 Python Extension Pack 插件
+=== 建立並選擇 Python 環境
+
+== 建立 Django 專案
+----
+指令: django-admin startproject xxxxxx
+----
+TIP: xxxxxx 為專案名稱
+
+== 建立 Django 應用程式
+
+----
+指令: 
+python manage.py startapp yyyyyy
+----
+TIP: yyyyyy 為 app 名稱
